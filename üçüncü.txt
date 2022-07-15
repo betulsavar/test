@@ -1,1 +1,2 @@
 yeni dosya oluşturuldu
+html projesi için örnekler
